@@ -1,0 +1,33 @@
+*{
+	
+	background-color: lightslategrey;
+}
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.screenshot{
+	max-width: 100%;
+	width: 85%;
+	height: 85%;
+	text-align: center;
+
+	
+
+}
+.description{
+	max-width: 50%;
+	font-size: 21px;
+
+}
+.subtitle{
+	text-align: center;
+	color: darkslateblue;
+	background-color: coral;
+}
+.title{
+	text-align: center;
+	color: coral;
+}
